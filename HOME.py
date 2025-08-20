@@ -4,7 +4,7 @@ st.markdown("### Welcome to Ms.Choi's English Classroo")
 st.caption("Since Aug 20, 2025")
 
 # Image links
-main_image_url = "https://github.com/jihyeon0531/WordApp/raw/main/images/welcome3.png"
+main_image_url = "https://github.com/jihyeon0531/WordApp/raw/main/images/welcome1.png"
 qr_image_url = "https://github.com/jihyeon0531/WordApp/raw/main/images/wordapp1.png"
 
 # Use columns to center images
