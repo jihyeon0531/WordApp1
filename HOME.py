@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.markdown("### Welcome to Ms.Choi's English Classroo")
+st.markdown("### Welcome to Ms.Choi's English Classroom")
 st.caption("Since Aug 20, 2025")
 
 # Image links
